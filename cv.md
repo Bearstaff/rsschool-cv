@@ -7,8 +7,9 @@
 ### I really want to learn a couple of new programming languages
 ### I have minimal skills in javascript
 ![solution to the problem in CodeWars](rsschool-cv/codewars.png)
-```function multiply(a, b){
+```javascript
+ function multiply(a, b){
   return a * b
-}
-```
+};
+``` 
 ### English language proficiency level A2
