@@ -1,0 +1,21 @@
+.photo {
+width: 20vw;
+height: 38vh;
+}
+.h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.footer {
+display: flex;
+  justify-content: center;
+  border: 2px solid blue;
+}
+.logo {
+    width: 14vw;
+    height: 8vh;
+}
