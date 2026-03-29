@@ -1,16 +1,18 @@
-# **Селиверстов Никита Андреевич**
+# Seliverstov Nikita Andreevich
 ## *My tg:@Bearstaff
-Образование: клинический психолог
-## Мои цели:
+![My Photo](myphoto.png)
+### My goal:
 * Studying the new
 * Searching for a New Job
 * An activity that is interesting to me
-## Мои навыки:
+### My Skills:
 * Git
 * HTML
-## Код:
-```<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Instructor Muffin</title>```
+### Code:
+```<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8"> <title>МОЁ РЕЗЮМЕ</title>```
+### Experience: 
+*I don't have*
+### Education:
+*Medical Psychologist*
+### Languages:
+*English B1*
