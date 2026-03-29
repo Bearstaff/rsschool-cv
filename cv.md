@@ -1,5 +1,5 @@
 # Seliverstov Nikita Andreevich
-## *My tg:@Bearstaff
+## *My tg:@Bearstaff*
 ![My Photo](myphoto.png)
 ### My goal:
 * Studying the new
@@ -8,6 +8,7 @@
 ### My Skills:
 * Git
 * HTML
+* CSS
 ### Code:
 ```<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8"> <title>МОЁ РЕЗЮМЕ</title>```
 ### Experience: 
